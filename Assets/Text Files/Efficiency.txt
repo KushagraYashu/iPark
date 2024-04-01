@@ -1,0 +1,18 @@
+2024-03-29 02:47:52 (Training Model 28/03)
+Efficiency 74.95232%
+29-03-2024 16:49:04
+Efficiency 58.30884%
+29-03-2024 18:10:13
+Efficiency 76.28129%
+30-03-2024 13:48:07
+Efficiency 84.70142%
+30-03-2024 14:46:54 (Training Model 29-03)
+Efficiency 73.33334%
+30-03-2024 23:32:12 (Training Model 30-03)
+Efficiency 79.63393%
+
+Efficiency 78.97898%
+31-03-2024 00:06:38 (Testing Model)
+
+31-03-2024 00:11:18 (Testing Model)
+Efficiency 80.34483%
