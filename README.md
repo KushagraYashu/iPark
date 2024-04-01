@@ -1,10 +1,10 @@
-# AutonomousParkingMLUnity 
-Training autonomous parking for cars using Unity's ML-agents and physics simulation.
+# iPark: Intelligent Parking 
+Autonomous parking system for cars using Unity's ML-agents and physics simulation.
 
-Sample project made to support medium article:
+A Project for final year of BTech
 
 
-Some of the 3D models used in this project are from sketchfab
+Some of the 3D models used in this project are from sketchfab:
 
 [Shrine of The Fury](https://sketchfab.com/3d-models/chevrolet-corvette-1980-different-colours-7e428bdb3ab54b4e9ac610e545fd9d03)
 
