@@ -5,6 +5,7 @@ using UnityEditor;
 using UnityEngine;
 using System.IO;
 using System;
+using Unity.MLAgents.Policies;
 
 public class EfficiencyCombined : MonoBehaviour
 {
@@ -86,7 +87,7 @@ public class EfficiencyCombined : MonoBehaviour
         }
         else
         {
-            txtString.Add("\n" + DateTime.Now.ToString() + " (Testing Model)");
+            txtString.Add("\n" + DateTime.Now.ToString() + " (Testing Model " + "\"" + efficiencyCal[0].GetComponent<BehaviorParameters>().Model + "\"" + ")");
         }
         txtString.Add("Efficiency " + eff + "%");
 
