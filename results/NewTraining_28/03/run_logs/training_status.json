@@ -1,0 +1,47 @@
+{
+    "iPark": {
+        "checkpoints": [
+            {
+                "steps": 8499933,
+                "file_path": "results\\NewTraining_28/03\\iPark\\iPark-8499933.nn",
+                "reward": 0.40772089488202273,
+                "creation_time": 1711658588.121095
+            },
+            {
+                "steps": 8999979,
+                "file_path": "results\\NewTraining_28/03\\iPark\\iPark-8999979.nn",
+                "reward": 0.41604695808509307,
+                "creation_time": 1711659279.440417
+            },
+            {
+                "steps": 9499996,
+                "file_path": "results\\NewTraining_28/03\\iPark\\iPark-9499996.nn",
+                "reward": 0.3637567665427923,
+                "creation_time": 1711659974.9258344
+            },
+            {
+                "steps": 9999990,
+                "file_path": "results\\NewTraining_28/03\\iPark\\iPark-9999990.nn",
+                "reward": 0.4942043045302853,
+                "creation_time": 1711660670.6905358
+            },
+            {
+                "steps": 10000026,
+                "file_path": "results\\NewTraining_28/03\\iPark\\iPark-10000026.nn",
+                "reward": 0.4937703928938418,
+                "creation_time": 1711660671.4718058
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000026,
+            "file_path": "results\\NewTraining_28/03\\iPark.nn",
+            "reward": 0.4937703928938418,
+            "creation_time": 1711660671.4718058
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.4"
+    }
+}

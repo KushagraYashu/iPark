@@ -13,7 +13,7 @@ public class CameraLook : MonoBehaviour
     void Start()
     {
         /*playerBody = this.transform;*/
-        Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.lockState = CursorLockMode.Locked;
     }
 
     // Update is called once per frame

@@ -1,0 +1,2 @@
+model_checkpoint_path: "iPark-10000162.ckpt"
+all_model_checkpoint_paths: "iPark-10000162.ckpt"

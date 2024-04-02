@@ -9,7 +9,6 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/results*/
 .idea/**/.idea/*.xml
 .idea/.idea.pdf-renderer-unity/.idea/contentModel.xml
 # Never ignore Asset meta data
