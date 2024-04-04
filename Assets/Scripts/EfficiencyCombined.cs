@@ -90,6 +90,10 @@ public class EfficiencyCombined : MonoBehaviour
             txtString.Add("\n" + DateTime.Now.ToString() + " (Testing Model " + "\"" + efficiencyCal[0].GetComponent<BehaviorParameters>().Model + "\"" + ")");
         }
         txtString.Add("Efficiency " + eff + "%");
+        txtString.Add("Total Park " + totPark);
+        txtString.Add("Total Collision " + totCollision);
+        txtString.Add("Total Cases " + totCases);
+
 
         File.AppendAllLines(EffTxtFilePath, txtString);
 
