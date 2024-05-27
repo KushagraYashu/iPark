@@ -50,8 +50,8 @@ To launch the application:
 `25-05-2024 22:47:17 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")`  
 `Efficiency 91.66667%`  
 `Total Park 11`  
-`Total Collision 1`
-`Total Cases 12`
+`Total Collision 1`  
+`Total Cases 12`  
 
 ## Contributing
 
