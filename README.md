@@ -45,13 +45,12 @@ To launch the application:
    - Navigate to `C:\Users\[YOUR USERNAME]\AppData\LocalLow\Kushagra\iPark_ Intelligent Parking`.
    - If the "AppData" folder is not visible, enable hidden items in your file explorer (View->Hidden Items).
    - Open the `Efficiency.txt` file to view efficiency data, including timestamps and model descriptions.
-
-## Example of Efficiency Log
-`25-05-2024 22:47:17 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")`  
-`Efficiency 91.66667%`  
-`Total Park 11`  
-`Total Collision 1`  
-`Total Cases 12`  
+   - Example of Efficiency Log
+     `25-05-2024 22:47:17 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")`  
+     `Efficiency 91.66667%`  
+     `Total Park 11`  
+     `Total Collision 1`  
+     `Total Cases 12`  
 
 ## Contributing
 
