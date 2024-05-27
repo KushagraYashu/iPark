@@ -8,12 +8,13 @@ iPark: Intelligent Parking is a machine learning project that utilizes Unity ML-
 
 To install iPark: Intelligent Parking, follow these steps:
 
-1. Navigate to the path: `[PENDRIVE]:\iPark\Project Files\Build\Installer`.
-2. Launch the `iParkSetup` file.
-3. Choose the setup language.
-4. Select the user account for installation.
-5. Opt to create a desktop icon (optional).
-6. Wait for the setup to complete.
+1. Go to the [releases section](https://github.com/KushagraYashu/iPark/releases/tag/setup) of the GitHub repository.
+2. Download the `iParkSetup` file.
+3. After downloading, Launch the `iParkSetup` file.
+4. Choose the setup language.
+5. Select the user account for installation.
+6. Opt to create a desktop icon (optional).
+7. Wait for the setup to complete.
 
 To launch the application:
 - Either tick the launch button before closing the setup, or
