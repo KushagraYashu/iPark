@@ -13,7 +13,7 @@ public class CameraLook : MonoBehaviour
     void Start()
     {
         /*playerBody = this.transform;*/
-        //Cursor.lockState = CursorLockMode.Locked;
+        Cursor.lockState = CursorLockMode.Confined;
     }
 
     // Update is called once per frame
@@ -26,5 +26,14 @@ public class CameraLook : MonoBehaviour
         /*xRotation = Mathf.Clamp(xRotation, -60f, 60f);*/
         playerBody.Rotate(Vector3.up, mouseX, Space.Self);
         transform.localRotation = Quaternion.Euler(xRotation /*- Random.Range(camRecoilMin,camRecoilMax)*/, 0f, 0f);
+
+        if (Input.GetMouseButton(0))
+        {
+            this.GetComponent<Camera>().fieldOfView = 25;
+        }
+        if (Input.GetMouseButton(1))
+        {
+            this.GetComponent<Camera>().fieldOfView = 50;
+        }
     }
 }

@@ -1,0 +1,18 @@
+
+15-05-2024 13:03:03 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+15-05-2024 13:03:03 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+15-05-2024 13:03:05 (Testing Model "iPark [02] 28-03-2024-10000026 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 3
+Total Collision 0
+Total Cases 3

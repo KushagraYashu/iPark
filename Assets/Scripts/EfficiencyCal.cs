@@ -14,6 +14,11 @@ public class EfficiencyCal : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
+    }
+
+    public void GetTrainingBool()
+    {
         if (this.GetComponent<BehaviorParameters>().Model)
         {
             isTraining = false;

@@ -1,0 +1,47 @@
+{
+    "iPark": {
+        "checkpoints": [
+            {
+                "steps": 8499941,
+                "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark\\iPark-8499941.nn",
+                "reward": 1.086470603942871,
+                "creation_time": 1715186280.3076746
+            },
+            {
+                "steps": 8999979,
+                "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark\\iPark-8999979.nn",
+                "reward": 0.6917458360807763,
+                "creation_time": 1715186943.2495482
+            },
+            {
+                "steps": 9499964,
+                "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark\\iPark-9499964.nn",
+                "reward": 0.6935130061324815,
+                "creation_time": 1715187580.6720276
+            },
+            {
+                "steps": 9999932,
+                "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark\\iPark-9999932.nn",
+                "reward": 0.70690355604581,
+                "creation_time": 1715188203.7484128
+            },
+            {
+                "steps": 10000010,
+                "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark\\iPark-10000010.nn",
+                "reward": 0.7030763374641538,
+                "creation_time": 1715188204.618341
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000010,
+            "file_path": "results\\iPark_Export_[03]_08-05-2024\\iPark.nn",
+            "reward": 0.7030763374641538,
+            "creation_time": 1715188204.618341
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.4"
+    }
+}

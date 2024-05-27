@@ -18,3 +18,766 @@ Efficiency 78.97898%
 Efficiency 80.34483%
 02-04-2024 01:14:52 (Testing Model)
 Efficiency 79.93255%
+
+
+30-04-2024 14:54:06 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 75.72816%
+Total Park 78
+Total Collision 25
+Total Cases 103
+
+30-04-2024 14:54:06 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 75.72816%
+Total Park 78
+Total Collision 25
+Total Cases 103
+
+30-04-2024 14:54:17 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 77.41936%
+Total Park 96
+Total Collision 28
+Total Cases 124
+
+30-04-2024 14:54:06 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 75.72816%
+Total Park 78
+Total Collision 25
+Total Cases 103
+
+30-04-2024 14:54:17 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 77.41936%
+Total Park 96
+Total Collision 28
+Total Cases 124
+
+30-04-2024 14:54:20 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 76.51515%
+Total Park 101
+Total Collision 31
+Total Cases 132
+
+30-04-2024 14:54:06 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 75.72816%
+Total Park 78
+Total Collision 25
+Total Cases 103
+
+30-04-2024 14:54:17 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 77.41936%
+Total Park 96
+Total Collision 28
+Total Cases 124
+
+30-04-2024 14:54:20 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 76.51515%
+Total Park 101
+Total Collision 31
+Total Cases 132
+
+30-04-2024 14:54:22 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 76.86567%
+Total Park 103
+Total Collision 31
+Total Cases 134
+
+30-04-2024 14:54:38 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 4
+Total Collision 0
+Total Cases 4
+
+30-04-2024 14:54:38 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 4
+Total Collision 0
+Total Cases 4
+
+30-04-2024 14:54:41 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 14
+Total Collision 0
+Total Cases 14
+
+30-04-2024 14:54:38 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 4
+Total Collision 0
+Total Cases 4
+
+30-04-2024 14:54:41 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 14
+Total Collision 0
+Total Cases 14
+
+30-04-2024 14:54:41 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 15
+Total Collision 0
+Total Cases 15
+
+30-04-2024 14:54:38 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 4
+Total Collision 0
+Total Cases 4
+
+30-04-2024 14:54:41 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 14
+Total Collision 0
+Total Cases 14
+
+30-04-2024 14:54:41 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 100%
+Total Park 15
+Total Collision 0
+Total Cases 15
+
+30-04-2024 14:54:42 (Testing Model "iPark_V2-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 94.11765%
+Total Park 16
+Total Collision 1
+Total Cases 17
+
+04-05-2024 17:47:34 (Training Model)
+Efficiency 84.72469%
+Total Park 477
+Total Collision 86
+Total Cases 563
+
+04-05-2024 17:49:48 (Training Model)
+Efficiency 15.29052%
+Total Park 50
+Total Collision 277
+Total Cases 327
+
+04-05-2024 21:41:02 (Training Model)
+Efficiency 75.3954%
+Total Park 143200
+Total Collision 46732
+Total Cases 189932
+
+05-05-2024 14:38:32 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 84.33735%
+Total Park 70
+Total Collision 13
+Total Cases 83
+
+08-05-2024 12:00:22 (Training Model)
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+08-05-2024 15:30:55 (Training Model)
+Efficiency 79.27053%
+Total Park 170392
+Total Collision 44558
+Total Cases 214950
+
+08-05-2024 18:24:54 (Training Model)
+Efficiency 74.55097%
+Total Park 97043
+Total Collision 33127
+Total Cases 130170
+
+08-05-2024 22:40:04 (Training Model)
+Efficiency 79.25703%
+Total Park 150414
+Total Collision 39366
+Total Cases 189780
+
+14-05-2024 14:47:05 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 71.42857%
+Total Park 15
+Total Collision 6
+Total Cases 21
+
+14-05-2024 14:47:05 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 71.42857%
+Total Park 15
+Total Collision 6
+Total Cases 21
+
+14-05-2024 14:47:12 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 76.31579%
+Total Park 29
+Total Collision 9
+Total Cases 38
+
+14-05-2024 15:20:48 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:48 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:48 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:48 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:53 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:48 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:53 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:20:54 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:26:05 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 1
+Total Cases 1
+
+14-05-2024 15:28:52 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 1
+Total Cases 1
+
+14-05-2024 15:32:47 (Training Model)
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+14-05-2024 15:34:23 (Training Model)
+Efficiency 0%
+Total Park 0
+Total Collision 2
+Total Cases 2
+
+14-05-2024 15:36:59 (Training Model)
+Efficiency 77.19299%
+Total Park 44
+Total Collision 13
+Total Cases 57
+
+14-05-2024 15:39:03 (Training Model)
+Efficiency 53.84615%
+Total Park 14
+Total Collision 12
+Total Cases 26
+
+14-05-2024 15:40:16 (Training Model)
+Efficiency 90%
+Total Park 18
+Total Collision 2
+Total Cases 20
+
+14-05-2024 15:40:16 (Training Model)
+Efficiency 90%
+Total Park 18
+Total Collision 2
+Total Cases 20
+
+14-05-2024 15:40:18 (Training Model)
+Efficiency 88%
+Total Park 22
+Total Collision 3
+Total Cases 25
+
+14-05-2024 15:44:34 (Training Model)
+Efficiency 62.5%
+Total Park 5
+Total Collision 3
+Total Cases 8
+
+14-05-2024 15:44:34 (Training Model)
+Efficiency 62.5%
+Total Park 5
+Total Collision 3
+Total Cases 8
+
+14-05-2024 15:44:36 (Training Model)
+Efficiency 71.42857%
+Total Park 10
+Total Collision 4
+Total Cases 14
+
+14-05-2024 15:44:34 (Training Model)
+Efficiency 62.5%
+Total Park 5
+Total Collision 3
+Total Cases 8
+
+14-05-2024 15:44:36 (Training Model)
+Efficiency 71.42857%
+Total Park 10
+Total Collision 4
+Total Cases 14
+
+14-05-2024 15:44:36 (Training Model)
+Efficiency 70.58823%
+Total Park 12
+Total Collision 5
+Total Cases 17
+
+14-05-2024 15:44:34 (Training Model)
+Efficiency 62.5%
+Total Park 5
+Total Collision 3
+Total Cases 8
+
+14-05-2024 15:44:36 (Training Model)
+Efficiency 71.42857%
+Total Park 10
+Total Collision 4
+Total Cases 14
+
+14-05-2024 15:44:36 (Training Model)
+Efficiency 70.58823%
+Total Park 12
+Total Collision 5
+Total Cases 17
+
+14-05-2024 15:44:38 (Training Model)
+Efficiency 76.19048%
+Total Park 16
+Total Collision 5
+Total Cases 21
+
+14-05-2024 15:45:18 (Training Model)
+Efficiency 56.52174%
+Total Park 13
+Total Collision 10
+Total Cases 23
+
+14-05-2024 15:45:18 (Training Model)
+Efficiency 56.52174%
+Total Park 13
+Total Collision 10
+Total Cases 23
+
+14-05-2024 15:45:44 (Training Model)
+Efficiency 72.83951%
+Total Park 59
+Total Collision 22
+Total Cases 81
+
+14-05-2024 15:45:18 (Training Model)
+Efficiency 56.52174%
+Total Park 13
+Total Collision 10
+Total Cases 23
+
+14-05-2024 15:45:44 (Training Model)
+Efficiency 72.83951%
+Total Park 59
+Total Collision 22
+Total Cases 81
+
+14-05-2024 15:45:51 (Training Model)
+Efficiency 72%
+Total Park 72
+Total Collision 28
+Total Cases 100
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:51:34 (Training Model)
+Efficiency 86.66666%
+Total Park 13
+Total Collision 2
+Total Cases 15
+
+14-05-2024 15:51:58 (Training Model)
+Efficiency 90.66666%
+Total Park 68
+Total Collision 7
+Total Cases 75
+
+14-05-2024 15:51:59 (Training Model)
+Efficiency 91.35802%
+Total Park 74
+Total Collision 7
+Total Cases 81
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 91.66666%
+Total Park 77
+Total Collision 7
+Total Cases 84
+
+14-05-2024 15:52:00 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.58823%
+Total Park 77
+Total Collision 8
+Total Cases 85
+
+14-05-2024 15:52:01 (Training Model)
+Efficiency 90.69768%
+Total Park 78
+Total Collision 8
+Total Cases 86
+
+14-05-2024 15:52:26 (Training Model)
+Efficiency 25%
+Total Park 1
+Total Collision 3
+Total Cases 4
+
+14-05-2024 15:52:34 (Training Model)
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+14-05-2024 15:52:34 (Training Model)
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+14-05-2024 15:53:34 (Training Model)
+Efficiency 82.45614%
+Total Park 47
+Total Collision 10
+Total Cases 57
+
+14-05-2024 16:13:59 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 50%
+Total Park 7
+Total Collision 7
+Total Cases 14
+
+14-05-2024 20:18:29 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 78.56705%
+Total Park 25682
+Total Collision 7006
+Total Cases 32688
+
+15-05-2024 12:15:26 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 75%
+Total Park 15
+Total Collision 5
+Total Cases 20
+
+15-05-2024 12:15:37 (Testing Model "iPark [03] 29-03-2024-10000005 (Unity.Barracuda.NNModel)")
+Efficiency 88.88889%
+Total Park 8
+Total Collision 1
+Total Cases 9
+
+15-05-2024 12:15:41 (Testing Model "iPark Export [03] 08-05-2024-10000010 (Unity.Barracuda.NNModel)")
+Efficiency NaN%
+Total Park 0
+Total Collision 0
+Total Cases 0
+
+15-05-2024 12:19:56 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 50%
+Total Park 11
+Total Collision 11
+Total Cases 22
+
+15-05-2024 12:24:58 (Testing Model "iPark [01] 21-11-2023-10000162 (Unity.Barracuda.NNModel)")
+Efficiency 66.66666%
+Total Park 16
+Total Collision 8
+Total Cases 24

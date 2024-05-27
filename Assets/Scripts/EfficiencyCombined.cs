@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using UnityEditor;
 using UnityEngine;
-using System.IO;
 using System;
 using Unity.MLAgents.Policies;
+using TMPro;
 
 public class EfficiencyCombined : MonoBehaviour
 {
@@ -14,14 +15,18 @@ public class EfficiencyCombined : MonoBehaviour
     public List<string> txtString;
     public bool trainingPhase;
 
+    public TextMeshProUGUI totCasesStr;
+    public TextMeshProUGUI nNNameStr;
+    public TextMeshProUGUI totParkStr;
+    public TextMeshProUGUI effStr;
+
     public static EfficiencyCombined instance;
 
-    private const string EffTxtFilePath = @"Assets/Text Files/Efficiency.txt";
 
     private void Awake()
     {
 
-        efficiencyCal = new List<EfficiencyCal>();
+        /*efficiencyCal = new List<EfficiencyCal>();
         efficiencyCalGO = GameObject.FindGameObjectsWithTag("agent");
 
         for(int i = 0; i < efficiencyCalGO.Length; i++)
@@ -32,10 +37,11 @@ public class EfficiencyCombined : MonoBehaviour
             i++;
         }
 
+*/
         instance = this;
     }
 
-    static EfficiencyCombined()
+    /*static EfficiencyCombined()
     {
         EditorApplication.playModeStateChanged += LogPlayModeState;
     }
@@ -47,7 +53,7 @@ public class EfficiencyCombined : MonoBehaviour
         {
             instance.EfficiencyFinal();
         }
-    }
+    }*/
 
     // Start is called before the first frame update
     void Start()
@@ -61,12 +67,16 @@ public class EfficiencyCombined : MonoBehaviour
         
     }
 
-    void EfficiencyFinal()
+    public void EfficiencyFinal()
     {
         int totPark = 0;
         int totCollision = 0;
         int totCases = 0;
 
+        foreach (EfficiencyCal cal in efficiencyCal)
+        {
+            cal.GetTrainingBool();
+        }
         trainingPhase = efficiencyCal[0].isTraining;
 
         foreach(EfficiencyCal cal in efficiencyCal)
@@ -94,11 +104,16 @@ public class EfficiencyCombined : MonoBehaviour
         txtString.Add("Total Collision " + totCollision);
         txtString.Add("Total Cases " + totCases);
 
+        string path = Application.dataPath.Substring(0, Application.dataPath.LastIndexOf('/') - 1);
+        File.AppendAllLines(Application.persistentDataPath + "\\Efficiency.txt", txtString);
 
-        File.AppendAllLines(EffTxtFilePath, txtString);
-
-        Debug.LogError("Park " + totPark);
+        /*Debug.LogError("Park " + totPark);
         Debug.LogError("Total " + totCases);
-        Debug.LogError("eff " + eff + "%");
+        Debug.LogError("eff " + eff + "%");*/
+
+        totCasesStr.text = totCases.ToString();
+        nNNameStr.text = "" + GameObject.FindGameObjectWithTag("agent").GetComponent<BehaviorParameters>().Model.name;
+        totParkStr.text = totPark.ToString();
+        effStr.text = eff.ToString()+"%";
     }
 }
